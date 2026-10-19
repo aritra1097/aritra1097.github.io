@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://aritra1097.github.io/sitemap.xml

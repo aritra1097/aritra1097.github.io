@@ -13,13 +13,13 @@ Plain HTML and CSS; no build step, dependencies, tracking, or external fonts.
 - CV and paper links now point to PDFs in UMass Google Drive. Use Drive’s Manage versions → Upload new version to replace a PDF while preserving its URL. The original local PDFs remain as backup copies.
 - `assets/style.css`: shared design and responsive layouts.
 
-After the introduction is finalized, enable GitHub Pages with the repository root on `main`. This draft has not enabled Pages or public access.
+The introduction has been revised and approved. All internal links and anchors have been checked. To publish, enable GitHub Pages with the repository root on `main`. The current GitHub plan requires a public repository; changing repository visibility is awaiting explicit approval. Pages is not enabled yet.
 
 Preview locally: `python3 -m http.server 8765 --bind 127.0.0.1`
 
 ## Content snapshot
 
-Prepared October 19, 2026 from the current October 15 CV and the October 2026 job market paper used in the latest applications. The paper abstract is reproduced verbatim, with PDF line wrapping removed. The provisional home introduction draws directly from the October 15 cover letter. Other research summaries draw on the latest October research statement; course history and paper status follow the CV. The teaching text draws on the current teaching statement. Original materials were preserved. Only the CV and job market paper PDFs are included in this site, alongside the user-selected photograph.
+Prepared October 19, 2026 from the current October 15 CV and the October 2026 job market paper used in the latest applications. The paper abstract is reproduced verbatim, with PDF line wrapping removed. The home introduction was revised with the user on October 19 to describe the intersection of identity and labor economics, empirical research, and paid and unpaid care. It does not name an adviser. Other research summaries draw on the latest October research statement; course history and paper status follow the CV. The teaching text draws on the current teaching statement. Original materials were preserved. Only the CV and job market paper PDFs are included in this site, alongside the user-selected photograph.
 
 ## UMass Drive hosting
 

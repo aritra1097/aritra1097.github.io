@@ -1,6 +1,6 @@
 # Aritra Basu — Academic website
 
-Personal academic website: https://aritra1097.github.io/
+Personal academic website: https://aritrabasu.net/
 
 Plain HTML and CSS; no build step, dependencies, tracking, or external fonts.
 

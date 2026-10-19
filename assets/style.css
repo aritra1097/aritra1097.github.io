@@ -30,6 +30,6 @@
 nav{flex-wrap:wrap;column-gap:26px;row-gap:4px}
 @media(max-width:520px){nav{justify-content:flex-start;column-gap:20px;row-gap:0}nav a{padding-bottom:9px}.header-inner{padding-bottom:9px}}
 
-/* Personal travel photographs retain their full framing. */
-.trip-section{border-top:1px solid var(--rule);padding-top:28px}.trip-photo-set{margin:0}.trip-caption{font-size:13px;color:var(--muted);margin-top:18px}.trip-gallery{display:grid;grid-template-columns:1fr 1fr;gap:24px}.trip-column{display:flex;flex-direction:column;gap:24px}.trip-gallery figure{margin:0}.trip-gallery img{display:block;width:100%;height:auto}.turned-photo{position:relative;aspect-ratio:4/3;overflow:hidden}.trip-gallery .turned-photo img{position:absolute;left:50%;top:50%;width:75%;height:133.333333%;max-width:none;transform:translate(-50%,-50%) rotate(-90deg)}
-@media(max-width:600px){.trip-gallery{grid-template-columns:1fr;gap:20px}.trip-column{gap:20px}}
+/* A lead photograph followed by three images at a shared height, without cropping. */
+.trip-section{border-top:1px solid var(--rule);padding-top:28px}.trip-photo-set{margin:0}.trip-caption{font-size:13px;color:var(--muted);margin-top:18px}.trip-gallery figure{margin:0;min-width:0}.trip-gallery img{display:block;width:100%;height:auto}.trip-details{display:grid;grid-template-columns:16fr 16fr 9fr;gap:16px;align-items:start;margin-top:16px}.turned-photo{position:relative;aspect-ratio:4/3;overflow:hidden}.trip-gallery .turned-photo img{position:absolute;left:50%;top:50%;width:75%;height:133.333333%;max-width:none;transform:translate(-50%,-50%) rotate(-90deg)}
+@media(max-width:600px){.trip-details{grid-template-columns:1fr;gap:20px;margin-top:20px}}

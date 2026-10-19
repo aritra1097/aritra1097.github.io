@@ -29,4 +29,4 @@ Account: aritrabasu@umass.edu.
 - CV: https://drive.google.com/file/d/1ITbAJbZ0APV37dIxu065hBVdouwhcsG7/view?usp=drive_link
 - Job market paper: https://drive.google.com/file/d/1v3V7L_w0s2d2lY4qxaKRnpTJ3VWKAg4J/view?usp=drive_link
 
-Uploaded October 19, 2026. Both files are currently restricted. Public viewer access is awaiting explicit approval; enable “Anyone with the link — Viewer” for both PDFs before launching the website. The folder itself can remain private.
+Uploaded October 19, 2026. With explicit approval, both PDFs were set to “Anyone with the link — Viewer” on October 19, 2026. Saved access was verified in Google Drive for both files. Only the owner can edit. The folder and website repository remain private.

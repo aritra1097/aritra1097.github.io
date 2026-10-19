@@ -1,6 +1,6 @@
 # Aritra Basu — Academic website
 
-Personal academic site for GitHub Pages: https://aritra1097.github.io/
+Private draft of a personal academic site prepared for GitHub Pages. Intended public address: https://aritra1097.github.io/ (not published yet).
 
 Plain HTML and CSS; no build step, dependencies, tracking, or external fonts.
 
@@ -13,7 +13,7 @@ Plain HTML and CSS; no build step, dependencies, tracking, or external fonts.
 - Replace `assets/Aritra_Basu_CV.pdf` or `assets/Aritra_Basu_Job_Market_Paper.pdf` to update downloads without breaking links.
 - `assets/style.css`: shared design and responsive layouts.
 
-GitHub Pages serves the repository root on `main`. Changes pushed to `main` are published automatically.
+After the introduction is finalized, enable GitHub Pages with the repository root on `main`. This draft has not enabled Pages or public access.
 
 Preview locally: `python3 -m http.server 8765 --bind 127.0.0.1`
 

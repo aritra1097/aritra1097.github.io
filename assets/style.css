@@ -10,3 +10,18 @@
 .portrait{width:100%;aspect-ratio:4/5;overflow:hidden;margin:0 0 29px;background:#d8e7ef}.portrait img{width:100%;height:100%;object-fit:cover;transform:scale(1.5);transform-origin:32% 62%;display:block}.home-grid{grid-template-columns:minmax(0,620px) minmax(245px,1fr);gap:60px}
 @media(max-width:800px){.home-grid{grid-template-columns:1fr}.profile-sidebar{grid-template-columns:240px 1fr;align-items:start}.portrait{grid-row:span 3;margin:0}.sidebar-section:last-child{display:block}}
 @media(max-width:520px){.profile-sidebar{grid-template-columns:1fr}.portrait{max-width:300px;grid-row:auto;order:-1;margin-bottom:5px}.home-grid{gap:35px}}
+
+/* Teaching: compact academic course listing, with statement-based context. */
+.teaching-page{max-width:884px;padding-top:52px}
+.teaching-page .page-heading{padding-bottom:24px}
+.teaching-page .page-heading h1{font-size:40px;margin-bottom:22px}
+.teaching-intro{font-size:17px;line-height:1.8;max-width:760px;margin-bottom:8px}
+.teaching-page .course-section{padding-top:25px;margin-bottom:28px}
+.teaching-page .section-label{font-size:13px;text-transform:none;letter-spacing:0;font-weight:600;color:var(--ink);margin-bottom:10px}
+.teaching-page .course{padding:16px 0;align-items:baseline}
+.teaching-page .course h3{font-family:inherit;font-size:17px;font-weight:500;letter-spacing:0;line-height:1.5}
+.teaching-page .course-code{font-size:11px;margin-bottom:3px;letter-spacing:.7px}
+.teaching-page .teaching-philosophy{padding-top:24px;margin-bottom:26px}
+.teaching-page .teaching-philosophy p{font-size:16px;line-height:1.8}
+.teaching-page .teaching-interests p{font-size:15px;color:var(--muted)}
+@media(max-width:520px){.teaching-page{padding-top:35px}.teaching-page .page-heading h1{font-size:36px}.teaching-intro{font-size:16px}.teaching-page .course-term{margin-top:6px}}
